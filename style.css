@@ -1,0 +1,18 @@
+body {
+  font-family: product-sans;
+  padding: 25px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 12px;
+}
+
+img {
+  padding: 16px;
+}
+
+@font-face {
+  font-family: "product-sans";
+  src: url("ProductSans-Regular.ttf");
+}
